@@ -39,7 +39,6 @@ void main() {
     test('Can be printed', () {
       expect(CountryCode.RU.toString(), "CountryCode.RU");
     });
-
   });
 
   group('User-assigned', () {
